@@ -62,11 +62,7 @@
 ## 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,html,js,photoshop&theme=dark&perline=5" />
-</p>
-
-<p align="center">
-  <sub>⚡ Always learning • Always building • Always improving</sub>
+  <img src="https://skillicons.dev/icons?i=python,git,html,js,photoshop&theme=dark" />
 </p>
 
 ## 📊 GitHub Stats
