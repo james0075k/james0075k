@@ -60,15 +60,14 @@
 ---
 
 ## 🛠 Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,html,js,photoshop&theme=dark&perline=5" />
 </p>
 
----
+<p align="center">
+  <sub>⚡ Always learning • Always building • Always improving</sub>
+</p>
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -85,7 +84,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Smooth Animation)
+## 🐍 Contro Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/james0075k/james0075k/output/github-snake-dark.svg" />
