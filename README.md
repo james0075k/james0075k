@@ -62,9 +62,12 @@
 ## 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,html,js,photoshop&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,git,html,js,photoshop&theme=dark&perline=5" />
 </p>
 
+<p align="center">
+  <sub>⚡ Always learning • Always building • Always improving</sub>
+</p>
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=james0075k&show_icons=true&theme=tokyonight"/>
