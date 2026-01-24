@@ -85,5 +85,8 @@
 
 ---
 
-## 🐍 Neon Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/james0075k/james0075k/output/snake.svg)
+## 🐍 Contribution Snake (Smooth Animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/james0075k/james0075k/output/github-snake-dark.svg" />
+</p>
