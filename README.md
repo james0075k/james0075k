@@ -1,66 +1,59 @@
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#4CAF50;">JANAK ROKAYA</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+JANAK+ROKAYA;Quick+Learner+⚡;Curious+Engineer+🧠;Gamer+🎮+Editor+🎬+Coder+🐍" />
 </h1>
 
 <h3 align="center">
-  A curious engineering student from KEC Kalimati, Nepal 🇳🇵
+  Engineering student at <b>KEC Kalimati, Nepal 🇳🇵</b>
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=james0075k&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Quick+Learner;Curious+Mind;Mid-level+Sarcasm+😄;Python+%7C+Git+%7C+Editing;Always+Exploring+New+Things&center=true&width=500&height=45">
+  <img src="https://komarev.com/ghpvc/?username=james0075k&label=Profile%20Views&color=00F7FF&style=flat" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Engineering student at **Kathmandu Engineering College (KEC), Kalimati**
-- 🧠 Curious about **tech, editing, coding & life**
-- ✈️ Love **travelling** | 🍳 **cooking** | 🎬 **editing**
-- 🐍 Learning **Python, Git & GitHub**
-- 😅 Sarcasm level: *medium but dangerous*
+- 🎓 **Engineering Student** (Batch 079) — KEC Kalimati
+- ⚡ **Quick learner** with a curious mind
+- 🎮 Loves **Gaming** (strategy + competitive)
+- ✈️ Enjoys **Travelling**, 🍳 **Cooking**, 🎬 **Editing**
+- 🐍 Exploring **Python, Git & GitHub**
+- 😄 Sarcasm level: *mid… but sharp*
 
-> 💡 *"First make it work, then make it better."*
+> 💡 *“First make it work, then make it better.”*
 
 ---
 
-## 🔭 Current Work
+## 🔭 Current Project
 - 🚀 **Cloud Call** — College Project *(ONGOING)*
+
+---
 
 ## 🌱 Currently Learning
 - Python 🐍  
 - Git & GitHub 🌱  
 - Adobe Tools 🎨  
 
-## 📫 Reach Me At
-- 📧 **rokayajanak505@gmail.com**
-
 ---
 
-## 😂 Fun Zone (Very Serious Jokes)
-- ⚡ `1 + 1 == 2` ✔️ (tested, works perfectly)
-- 🐛 I don’t create bugs, I **discover undocumented features**
-- ☕ Code runs better after tea (scientifically proven in Nepal 🇳🇵)
+## 😂 Fun + Gaming Zone
+- 🎮 I play games for **stress relief** (and sometimes rage 😅)
+- 🐛 I don’t make bugs — I **unlock secret features**
+- ☕ Code + Tea = 10x performance (Nepal certified 🇳🇵)
 
 ---
 
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://twitter.com/james007" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" />
-  </a>
-  <a href="https://facebook.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/>
   </a>
   <a href="https://instagram.com/james.oo.7" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
   </a>
   <a href="https://youtube.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/>
   </a>
 </p>
 
@@ -79,18 +72,18 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=james0075k&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=james0075k&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=james0075k&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=james0075k&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=james0075k&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=james0075k&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/james0075k/james0075k/blob/output/snake.svg)
+## 🐍 Neon Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/james0075k/james0075k/output/snake.svg)

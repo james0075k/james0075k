@@ -1,4 +1,4 @@
-name: Generate snake animation
+name: Generate Neon Snake Animation
 
 on:
   schedule:
@@ -13,17 +13,17 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      - name: Generate snake.svg
+      - name: Generate neon snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
+          outputs: |
+            dist/snake.svg?palette=github-dark&color_snake=#00F7FF&color_dots=#00F7FF,#1E90FF,#7B68EE,#00FFFF
 
-      - name: Push snake.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
