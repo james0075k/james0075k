@@ -34,9 +34,14 @@
 
 ## 🌱 Currently Learning
 
-- Python 🐍
-- Git & GitHub 🌱
-- Adobe Creative Tools 🎨
+<h3 align="center">🎯 Current Focus</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Project-Cloud%20Call-ff69b4?style=for-the-badge&logo=rocket&logoColor=white" alt="Current Project" />
+  <img src="https://img.shields.io/badge/Learning-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Learning Python" />
+  <img src="https://img.shields.io/badge/Learning-Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Learning Git" />
+  <img src="https://img.shields.io/badge/Exploring-Adobe%20Tools-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Tools" />
+  <img src="https://img.shields.io/badge/Exploring-MERN%20Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="MERN Stack" />
+</div>
 
 ---
 
@@ -79,7 +84,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,html,js,photoshop&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,html,react,nodejs,express,mongodb,mysql,docker,git,photoshop,pr&theme=dark&perline=8" />
 </p>
 
 <p align="center">
@@ -121,12 +126,13 @@
 
 ---
 
-<p align="center">
-  <img src="assets/kyubey.gif" height="80" />
-</p>
+---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+  <h3>⚓ Nakama, Thanks for Stopping By! ⚓</h3>
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" height="180" alt="Luffy One Piece" />
+  <br><br>
+  <i>💬 "I don't want to conquer anything. I just think the guy with the most freedom in the whole ocean... that's the Pirate King!" — Monkey D. Luffy 🏴‍☠️</i>
 </div>
 
 <br>
